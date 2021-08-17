@@ -4,4 +4,4 @@
 auth | form | jwt
 -----|------|----
 
-
+![](images/basic_Auth.png)
